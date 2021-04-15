@@ -54,13 +54,13 @@ run:$(PROJECT_NAME)
 	$(FixPath)$(PROJECT_OUTPUT).$(EXEC)
 
 # Document the code using Doxygen
-doc:
-	make -C ./documentation
+# doc:
+# 	make -C ./documentation
 
 # Build and run the unit tests
-test:$(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
-	./$(TEST_OUTPUT)
+# test:$(BUILD)
+# 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
+# 	./$(TEST_OUTPUT)
 
 # Remove all the built files, invoke by `make clean`
 clean:
@@ -68,9 +68,9 @@ clean:
 
 
 #Coverage
-coverageCheck:$(BUILD)
-	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
-	./$(TEST_OUTPUT)
+# coverageCheck:$(BUILD)
+# 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0 $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
+# 	./$(TEST_OUTPUT)
 
 
 

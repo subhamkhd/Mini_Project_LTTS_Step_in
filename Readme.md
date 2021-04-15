@@ -42,3 +42,35 @@ Manage all the information about Customer, Reading, Units.
 # 4W1H
 
 ![alt text](https://github.com/subhamkhd/Mini_Project_LTTS_Step_in/blob/master/DESIGNS/4W1H.png?raw=true)
+
+
+
+# UML Diagram
+
+![alt text](https://github.com/subhamkhd/Mini_Project_LTTS_Step_in/blob/master/DESIGNS/UML.png?raw=true)
+
+# Detail Requirements
+
+## High Level Requirements
+
+| ID | Description | status (Implemented/Future)
+|:---|:---|:---|
+|HLR-1| Consumer can easily seek help With the Cosumer Care. |Implemented|
+|HLR-2| A new Consumer can add up their details |Implemented|
+|HLR-3| Consumer can modify their details |Implemented|
+|HLR-4| Consumer can see the dynamic bill chart as charged |Implemented|
+|HLR-5| Consumer can Login through various details |Implemented|
+|HLR-6| Consumer can enter to the console by a password as given by admin |Implemented|
+|HLR-6| All Types of Electricity Consumers can generate their bill |Implemented|
+
+
+  ## Low level Requirements
+  
+  ID|Description|Status (Implemented/Future)
+|:---|:---|:---|
+|LLR-1| New Consumer record shall be added by providing all the asked information,Id should be unique and validated from persistant file |Future|
+|LLR-2| Strong Payment Application would be added for smooth payment |Future|
+|LLR-3| Consumer can edit their details as per their requirements |Implemented|
+|LLR-4| Auto alarming method to be used at the time of bill due to avoid any late rebate|Future|
+|LLR-5| Dyanmic bill chart is Available as per the guidelines |Implemented|
+|LLR-6| Authorized Consumer can Access the systems |Implemented|
