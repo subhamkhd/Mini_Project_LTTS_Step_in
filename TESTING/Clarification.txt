@@ -1,0 +1,4 @@
+As in thus Mini project there are some Built-in functions are used hence this project cannot be tested the loops and functions 
+indivisually,Although the program is running efficiently and fine . I hve submitted the outcomes of the project in Screenshots.
+
+ 
