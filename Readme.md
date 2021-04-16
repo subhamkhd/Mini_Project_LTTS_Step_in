@@ -23,7 +23,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. During th workflow set, online blogs helped a lot
+1. During the workflow set, online blogs helped a lot
 2. As most of the function as used returnig void so it is done utmost thinking
 3. while running multi files . Make file techiniques helped a lot
 
