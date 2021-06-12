@@ -34,6 +34,3 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
-## Credits
-
-https://github.com/debasish2110/LTTS-C-MiniProject.git
